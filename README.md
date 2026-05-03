@@ -1,2 +1,2 @@
 # FreeCodeCampExercises
-My-solutions-to-every-lab-and-certification-projects-from-freeCodeCamp
+My-solutions-to-ALMOST-every-lab-and-certification-projects-from-freeCodeCamp
