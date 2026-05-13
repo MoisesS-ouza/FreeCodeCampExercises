@@ -4,16 +4,16 @@ Will add more solutions as soon as I learn more about the languages involved in 
 <br>
 # Exercises Solved: <br>
 <br>
-## HTML 
-### (Camperbot's Profile Page) <br>
-### (Pet Adoption Page) <br>
-### Recipe Page <br>
-### Travel Agency Page <br>
-### (HTML audio and video player) <br>
-### (Video Compilation Page) <br>
-### Event Hub Page <br>
-### (Book Catalog Page) <br>
-### Survey form Page <br>
+HTML <br>
+(Camperbot's Profile Page) <br>
+(Pet Adoption Page) <br>
+Recipe Page <br>
+Travel Agency Page <br>
+(HTML audio and video player) <br>
+(Video Compilation Page) <br>
+Event Hub Page <br>
+(Book Catalog Page) <br>
+Survey form Page <br>
 <br>
 In brackets () are the pages I decided not to post on here because they were very simple or the results were kind of silly
 
