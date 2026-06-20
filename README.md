@@ -17,7 +17,6 @@ Will add more solutions as soon as I learn more about the languages involved in 
 * Checkout Page <br>
 * Movie Review Page <br>
 * Multimedia Player <br>
-<br>
 
 ## CSS
 * Business Card <br>
