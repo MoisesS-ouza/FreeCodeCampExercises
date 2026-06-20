@@ -17,10 +17,12 @@ Will add more solutions as soon as I learn more about the languages involved in 
 * Checkout Page <br>
 * Movie Review Page <br>
 * Multimedia Player <br>
-</br>
+<br>
+
 ## CSS
 * Business Card <br>
 
+<br>
 In brackets () are the pages I decided not to post on here because they were very simple or the results were kind of silly
 
 
