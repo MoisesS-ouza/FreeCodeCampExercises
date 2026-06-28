@@ -20,7 +20,8 @@ Will add more solutions as soon as I learn more about the languages involved in 
 
 ## CSS
 * Business Card <br>
-* Stylized To-Do List
+* Stylized To-Do List <br>
+* Blog Post Card
 
 <br>
 In brackets () are the pages I decided not to post on here because they were very simple or the results were kind of silly
